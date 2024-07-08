@@ -1,7 +1,5 @@
 # SurfScape
-**A team of dedicated people developing open source, minimal, beautiful software for the open web at Neocities.**
-
-Welcome to the SurfScape GitHub Organisation where you can find all of our projects, services and web portal source code.
+**Creating resources about the open web and developing beautiful, minimal, services and software with privacy and security in mind.**
 
 ## Projects
 
