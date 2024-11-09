@@ -1,4 +1,7 @@
-# SurfScape
+[![SurfScape banner](banner.png)](https://github.com/surfscape)
+
+<h1 align="center">SurfScape</h1>
+
 **Creating resources about the open web and developing beautiful, minimal, services and software with privacy and security in mind.**
 
 ## Projects
