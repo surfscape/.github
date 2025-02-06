@@ -11,7 +11,7 @@ Welcome to the offical GitHub organization for SurfScape!
 ## About the project
 
 > [!IMPORTANT]  
-> The SurfScape project is currently suffering a restructure that will affect project branding, goals, and branding.
+> The SurfScape project is currently suffering a restructure that will affect projects, goals, and branding.
 
 SurfScape is an umbrella that develops a variety of projects and services related to the open web, privacy, and freedom.
 
