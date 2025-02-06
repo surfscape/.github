@@ -1,10 +1,22 @@
 [![SurfScape banner](banner.png)](https://github.com/surfscape)
 
-<h1 align="center">SurfScape</h1>
+# SurfScape
 
-**Creating resources about the open web and developing beautiful, minimal, services and software with privacy and security in mind.**
+<p align="center"><b><a href="https://surfscape.neocites.org/">Website</a></b> ~ <b><a href="https://fosstodon.org/@surfscape">Fosstodon (@surfscape)</a></b> ~ <b><a href="https://neocities.org/site/surfscape">Neocities</a></b></p>
+
+> Focused on open web resources and developing simple, private, and minimalist software & services.
+
+Welcome to the offical GitHub organization for SurfScape!
+
+## About the project
+
+> [!IMPORTANT]  
+> The SurfScape project is currently suffering a restructure that will affect project branding, goals, and branding.
+
+SurfScape is an umbrella that develops a variety of projects and services related to the open web, privacy, and freedom.
 
 ## Projects
 
-- [Web Portal](https://github.com/surfscape/web-portal) | The web portal. Hosted on [Neocities](https://neocities.org/site/surfscape).
-- [SurfKit](https://github.com/surfscape/surfkit) | Our UI framework and design language powering our projects.
+- **[Website](https://github.com/surfscape/web-portal)** - Our web portal currently hosted on Neocities
+- [SurfKit](https://github.com/surfscape/surfkit) - Our UI design system and CSS library
+- [GameVortex](https://github.com/surfscape/gamevortex) Our web gaming portal currently offering flash and HTML5 (in alpha) games for everyone
