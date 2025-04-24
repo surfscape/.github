@@ -2,7 +2,7 @@
 
 # SurfScape
 
-<p align="center"><b><a href="https://surfscape.neocites.org/">Website</a></b> ~ <b><a href="https://fosstodon.org/@surfscape">Fosstodon (@surfscape)</a></b> ~ <b><a href="https://neocities.org/site/surfscape">Neocities</a></b></p>
+<p align="center"><b><a href="https://surfscape.neocites.org/">Website</a></b> ~ <b><a href="https://codeberg.org/SurfScape">Codeberg</a></b> ~ <b><a href="https://fosstodon.org/@surfscape">Fosstodon (@surfscape)</a></b> ~ <b><a href="https://neocities.org/site/surfscape">Neocities</a></b></p>
 
 > Focused on open web resources and developing simple, private, and minimalist software & services.
 
@@ -18,5 +18,6 @@ SurfScape is an umbrella that develops a variety of projects and services relate
 ## Projects
 
 - **[Website](https://github.com/surfscape/web-portal)** - Our web portal currently hosted on Neocities
+- [Steel](https://github.com/surfscape/steel) - SurfScape's design language & desing system
 - [SurfKit](https://github.com/surfscape/surfkit) - Our UI design system and CSS library
 - [GameVortex](https://github.com/surfscape/gamevortex) Our web gaming portal currently offering flash and HTML5 (in alpha) games for everyone
