@@ -15,7 +15,8 @@ SurfScape is an umbrella that develops ethical software and services that have h
 ## Active Projects
 
 - **[Website](https://github.com/surfscape/web-portal)** - Our official website, currently hosted on SurfScape
-- **[Blueprint*](https://github.com/surfscape/blueprint)** - The official wiki for SurfScape. Included detailed information on what SurfScape is, how to contribute, as well as being the home to our developer documentation for all of our products.
+- **[Tidepool*](https://github.com/surfscape/tidepool)** - SurfScape wiki containing additional information about the project, details about all of our products and community content.
+- [Blueprint*](https://github.com/surfscape/blueprint) - Developer documentation. Includes technical information of our products, from how they work, using APIs and whitepapers related to their privacy and security practices.
 - [Steel*](https://github.com/surfscape/steel) - Our official design language/system used troghout our products, with a focus on utilitarism, minimalism and customization
 - [Gaming*](https://github.com/surfscape/gaming) - Gaming web portal (alternative to GameVortex)
 - [Collectio*](https://github.com/surfscape/collectio) - Offline web app for saving & organizing links by tags and collections. Works in-browser with no backend.
@@ -33,4 +34,3 @@ Most of the projects below either have a better version available or have no use
 - [GameVortex](https://github.com/surfscape/gamevortex) Our web gaming portal currently offering flash and HTML5 (in alpha) games for everyone
 - [SurfKit](https://github.com/surfscape/surfkit) - Our UI design system and CSS library
 - [Labs](https://github.com/surfscape/labs) - Experiments portal
-
