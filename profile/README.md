@@ -2,7 +2,7 @@
 
 # SurfScape
 
-<p align="center"><b><a href="https://surfscape.neocites.org/">Website</a></b> ~ <b><a href="https://codeberg.org/SurfScape">Codeberg</a></b> ~ <b><a href="https://fosstodon.org/@surfscape">Fosstodon (@surfscape)</a></b> ~ <b><a href="https://neocities.org/site/surfscape">Neocities</a></b></p>
+<p align="center"><b><a href="https://surfscape.neocities.org/">Website</a></b> ~ <b><a href="https://codeberg.org/SurfScape">Codeberg</a></b> ~ <b><a href="https://fosstodon.org/@surfscape">Fosstodon (@surfscape)</a></b> ~ <b><a href="https://neocities.org/site/surfscape">Neocities</a></b></p>
 
 > Developing ethical solutions with a focus on user control and privacy
 
