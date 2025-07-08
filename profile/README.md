@@ -16,6 +16,8 @@ SurfScape is an umbrella that develops ethical software and services that have h
 
 - **[Website](https://github.com/surfscape/web-portal)** - Our official website, currently hosted on SurfScape
 - **[Tidepool*](https://github.com/surfscape/tidepool)** - SurfScape wiki containing additional information about the project, details about all of our products and community content.
+- [Celer](https://github.com/surfscape/celer) - The toolbox for Windows 10/11
+- [Nuage](https://github.com/surfscape/Nuage) - The minimalist weather app
 - [customWin](https://github.com/customWin) - Home of the customIcons, driveIconPatcher, and more Windows patching tools!
 - [Blueprint*](https://github.com/surfscape/blueprint) - Developer documentation. Includes technical information of our products, from how they work, using APIs and whitepapers related to their privacy and security practices.
 - [Steel*](https://github.com/surfscape/steel) - Our official design language/system used troghout our products, with a focus on utilitarism, minimalism and customization
