@@ -2,7 +2,7 @@
 
 # SurfScape
 
-<p align="center"><b><a href="https://surfscape.eu/">Website</a></b> ~ <b><a href="https://codeberg.org/SurfScape">Codeberg</a></b> ~ <b><a href="https://fosstodon.org/@surfscape">Fediverse (@surfscape)</a></b> ~ <b><a href="https://neocities.org/site/surfscape">Neocities</a></b></p>
+<p align="center"><b><a href="https://surfscape.eu/">Website</a></b> ~ <b><a href="https://fosstodon.org/@surfscape">Fediverse (@surfscape)</a></b> ~ <b><a href="https://neocities.org/site/surfscape">Neocities</a></b></p>
 
 SurfScape is an umbrella that develops ethical software and services that have heavy focus on user choice, privacy, and minimalism.
 
